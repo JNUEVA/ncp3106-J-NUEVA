@@ -1,0 +1,59 @@
+.fontHead{
+	font-size: 35px;
+	line-height: 60px;
+	font-family: 'Lexend Peta', sans-serif;
+}
+
+.font2Head{
+	font-size: 30px;
+	line-height: 60px;
+	font-family: 'Alata', sans-serif;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.imgFirst {
+  border-radius: 50%;
+  width: 300;
+  height: 300;
+}
+
+.floatImg{
+	float: left;
+	margin-top: 50px;
+	margin-right: 10px;
+	margin-left: 100px;
+	margin-bottom: 5px;
+	padding: 2px;
+}
+
+.spacesImage{
+	margin-top: 40px;
+	margin-right: 10px;
+	margin-left: 10px;
+	margin-bottom: 5px;
+}
+
+.textAdjustment{
+	font-size: 28px;
+	line-height: 1.5;
+	text-align: justify;
+	text-justify: inter-word;
+}
+
+.textSpacing{
+	margin-top: 20px;
+	margin-right: 150px;
+	margin-left: 150px;
+	margin-bottom: 10px;
+}
+
+.quickFacts{
+	font-size: 22px;
+	font-style: bold;
+	line-height: 1.5;
+	text-align: center;
+	text-justify: inter-word;
+	
+}
+
+	
